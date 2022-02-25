@@ -1,0 +1,47 @@
+
+body
+{
+   /* margin-top: 100px ; margin-left: 100px; margin-right: 570px; margin-bottom: 100px; */
+  
+   margin: 100px 670px 100px 100px;
+   /* margin: top right bottom left */
+  
+   border: 1px solid black;
+   /* border : size type color*/
+    
+   padding: 25px 10px 5px 75px;
+   /* top padding is 25px  right and left paddings are 50px  bottom padding is 75px */
+
+}
+
+img
+{
+    width: 150px;
+    height: 150px;
+}
+
+h1
+{
+  text-align: center;
+}
+
+#about
+{
+    text-align: center;
+}
+
+#myself 
+{
+    text-align: center;
+} 
+
+h5
+{
+  color: rgb(204, 107, 42);
+  font-size: 16px;
+}
+
+.right
+{
+    text-align: right;
+}
